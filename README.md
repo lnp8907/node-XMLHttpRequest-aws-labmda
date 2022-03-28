@@ -1,5 +1,9 @@
-# node-XMLHttpRequest #
+# node-XMLHttpRequest-aws-lambda #
 
+##原作來源於node-XMLHttpRequest(https://github.com/driverdan/node-XMLHttpRequest)##
+我只做了兩行更動, 為了可以讓我在aws-labmda中使用他
+
+##D##
 node-XMLHttpRequest is a wrapper for the built-in http client to emulate the
 browser XMLHttpRequest object.
 
