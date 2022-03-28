@@ -1,19 +1,18 @@
 {
-  "name": "xmlhttprequest",
-  "description": "XMLHttpRequest for Node",
-  "version": "1.8.0",
+  "name": "xmlhttprequest-aws-lambda",
+  "description": "XMLHttpRequest for Node in AWS Lambda",
+  "version": "1.0.0",
   "author": {
-    "name": "Dan DeFelippi",
-    "url": "http://driverdan.com"
+    "name": "Dan DeFelippi/Kenshi Chen",
   },
-  "keywords": ["xhr", "ajax"],
+  "keywords": ["xhr", "ajax", "aws-lambda"],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/driverdan/node-XMLHttpRequest.git"
+    "url": "https://github.com/lnp8907/node-XMLHttpRequest-aws-labmda.git"
   },
   "browser": "./lib/browser.js",
-  "bugs": "http://github.com/driverdan/node-XMLHttpRequest/issues",
+  "bugs": "https://github.com/lnp8907/node-XMLHttpRequest-aws-labmda.git/issues",
   "engines": {
     "node": ">=0.4.0"
   },
