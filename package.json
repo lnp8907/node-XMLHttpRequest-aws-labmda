@@ -1,7 +1,7 @@
 {
   "name": "xmlhttprequest-aws-lambda",
-  "description": "XMLHttpRequest for Node in AWS Lambda",
-  "version": "1.0.0",
+  "description": "XMLHttpRequest AWS Labmda for Node in AWS Lambda",
+  "version": "1.0.1",
   "author": {
     "name": "Dan DeFelippi/ Kenshi Chen"
   },
